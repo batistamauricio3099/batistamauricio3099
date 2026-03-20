@@ -2,7 +2,7 @@
 
 **Systems Engineer | DevOps Engineer (4+ years of experience)**
 
-I specialize in building scalable, highly available, and secure cloud infrastructures. Currently, I'm focused on mastering 3-tier architectures and automated CI/CD pipelines to bridge the gap between development and operations.
+I specialize in building scalable, highly available, and secure cloud infrastructures.
 
 ---
 

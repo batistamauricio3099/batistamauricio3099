@@ -25,10 +25,11 @@ I specialize in building scalable, highly available, and secure cloud infrastruc
 
 ---
 
-### 📫 Connect with me
-* **LinkedIn:** [https://www.linkedin.com/in/mauriciobatista30/]
-* **Email:** [Batistamauricio3099@gmail.com]
-* **Upwork:** [https://www.upwork.com/freelancers/~01c0ef2bdb5b2b368a]
+### 📬 Connect with me
+
+* **LinkedIn:** [Mauricio Batista](https://www.linkedin.com/in/mauriciobatista30/)
+* **Email:** [Batistamauricio3099@gmail.com](mailto:Batistamauricio3099@gmail.com)
+* **Upwork:** [Upwork Profile](https://www.upwork.com/freelancers/~01c0ef2bdb5b2b368a)
 
 *“When does a man die? When he is hit by a bullet? No! When he suffers a disease? No! When he ate a soup made out of a poisonous mushroom? No! A man dies when he is forgotten!”
 ― Eiichiro Oda, One Piece, Volume 16: Carrying On His Will*
